@@ -1,7 +1,7 @@
 * #### HTTP based service
 * #### Integrated auto-scaling
 * #### Can be deployed in containers
-* #### Integration with GitHub, BitBucket and other DevOps services for CI/CD
+* #### Integration with GitHub, BitBucket and other DevOps services for [[Deployment|CI/CD]] 
 * #### Slots can be deployed as copies for development
 * #### Native Linux support
 	* ##### Limitations:
