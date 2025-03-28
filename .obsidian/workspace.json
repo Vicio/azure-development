@@ -10,11 +10,13 @@
           {
             "id": "ff6ee8b894c54283",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,5 +175,10 @@
     }
   },
   "active": "ff6ee8b894c54283",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "().md",
+    "App Service/Service plans.md",
+    "App Service/App Service.md",
+    "App Service"
+  ]
 }
