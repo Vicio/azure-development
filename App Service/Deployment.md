@@ -7,4 +7,8 @@ For automated deployment they offer three options:
 
 For manual deployment they offer four options:
 * Git: You can connect any git compliant repository to Azure to deploy the application.
-* CLI: ```az webapp up``` command
+* CLI: ```az webapp up``` command packages your app for deployment
+* Zip deploy: You can manually upload a zipped file to the app service
+* FTP/FTPS: Azure also allows to directly push your files with FTP like traditional hosting sites.
+
+## Deployment slots
