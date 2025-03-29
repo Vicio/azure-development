@@ -12,3 +12,9 @@ For manual deployment they offer four options:
 * FTP/FTPS: Azure also allows to directly push your files with FTP like traditional hosting sites.
 
 ## Deployment slots
+This is a feature that enables copies of your application, but pointing to a different version of it, such as a staging or development version. Allowing you to test the new changes included in those branches. 
+
+There is also the possibility to have a percentage of the production traffic to move to these deployment slots in order to have users test the new changes firsthand and help with bug catching.
+
+Once one of the slots can be considered mature enough, it can be swapped with the production slot to include the new changes without having any downtime in your app.
+
