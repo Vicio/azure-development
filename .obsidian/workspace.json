@@ -25,16 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/Deployment.md",
+                "file": "App Service/App Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment"
+              "title": "App Service"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4b74cc013be1038",
+  "active": "ff6ee8b894c54283",
   "lastOpenFiles": [
     "App Service/App Service.md",
+    "App Service/Authentication.md",
     "App Service/Deployment.md",
     "App Service/Service plans.md",
     "Untitled.md",

@@ -18,3 +18,5 @@ There is also the possibility to have a percentage of the production traffic to 
 
 Once one of the slots can be considered mature enough, it can be swapped with the production slot to include the new changes without having any downtime in your app.
 
+## Sidecar containers
+These are used to deploy extra features to your already existing app, and that can be auxiliary services, such as monitoring, logging, configuration, and networking.
