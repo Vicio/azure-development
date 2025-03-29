@@ -1,4 +1,4 @@
-The Azure services offer both automated and manual deployment.
+The Azure services offer both automated and manual deployment. ^5fa4b1
 
 For automated deployment they offer three options:
 * Azure DevOps Services: An option to upload, build and publish your app altogether in a single service.
@@ -10,7 +10,6 @@ For manual deployment they offer four options:
 * CLI: ```az webapp up``` command packages your app for deployment
 * Zip deploy: You can manually upload a zipped file to the app service
 * FTP/FTPS: Azure also allows to directly push your files with FTP like traditional hosting sites.
-
 ## Deployment slots
 This is a feature that enables copies of your application, but pointing to a different version of it, such as a staging or development version. Allowing you to test the new changes included in those branches. 
 
