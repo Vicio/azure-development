@@ -26,13 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-204.md",
+                "file": "Azure Development.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "AZ-204"
+              "title": "Azure Development"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/Deployment.md",
+                "file": "App Service/Service plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployment"
+              "title": "Service plans"
             }
           }
         ],
@@ -224,11 +224,11 @@
   },
   "active": "e8cf898cc178c2e3",
   "lastOpenFiles": [
-    "App Service/Service plans.md",
-    "App Service/App Service.md",
-    "App Service/Authentication.md",
     "App Service/Deployment.md",
-    "AZ-204.md",
+    "App Service/Authentication.md",
+    "App Service/App Service.md",
+    "App Service/Service plans.md",
+    "Azure Development.md",
     "App Service/().md",
     "App.md",
     "App Service/AppService.md",

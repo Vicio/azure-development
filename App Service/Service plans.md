@@ -13,7 +13,7 @@ A set of compute resources to run different [[App Service|app services]]. Each p
 		* Dedicated hardware for the user
 		* Auto-scale option
 		* Multiple VMs available
-	* Isolated computing:
+	* Isolated computing: ^6e5c1f
 		* Isolated v1 and v2 tiers are here
 		* Dedicated hardware with dedicated network
 		* Auto-scale
