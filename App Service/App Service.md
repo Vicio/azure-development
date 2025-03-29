@@ -10,3 +10,4 @@
 		* Storage has more latency
 * #### Capable of being run in an isolated environment (dedicated hardware)
 * #### Capabilites depend on the different [[Service plans]]
+* #### Usage of built-in [[Authentication]] 
