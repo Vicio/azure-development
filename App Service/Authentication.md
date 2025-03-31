@@ -1,0 +1,1 @@
+App service provides built-in authentication support, which facilitates users
