@@ -7,3 +7,13 @@ There are some limitations for this built-in feature, the first one is that it c
 * X
 * GitHub
 * OpenID compliant providers
+
+### Authorization behavior
+There are two behaviors that can be configured when a request from unknown user reaches the app:
+* Allow unauthenticated requests: The App Service attaches a header to the user request that tells the application that the user is not authenticated, this allows the app to present a website for users that are not logged in.
+* Require authentication: The App Service always redirects the user to a login page of the provider that has been specified for authentication.
+
+### Token store
+App Service also provides a built-in token store, which contains all tokens related with user authentication.
+### Logging
+If app logging is enabled, all traces related to authentication and authorization are logged.
