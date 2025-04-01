@@ -1,13 +1,14 @@
 App service provides a series of features to control network traffic:
 * Inbound traffic control
 	* Restrictions based on IP or IP ranges
-* Outbound traffic control
+* Outbound traffic control ^85937e
 	* Restrictions based on IP or IP ranges
 	* VNet integration
 * Private endpoints
 	* Allows app services to be available only through internal network
 	* Only available for Premium plan or higher
 * Hybrid connections
+	* A feature of the [[#^85937e|outbound traffic control]]
 	* Allows connections to on-premises servers
 	* Requires the Hybrid Connection Manager installed on the on-premises servers
 * DNS & custom domains
