@@ -14,3 +14,14 @@ The predefined stacks available as of now are:
 * PHP
 * Ruby
 * Go
+#### Platform settings
+In the platform settings you can configure what the host is going to have and how it is going to behave, the settings available are these:
+* Bitness: either 32 or 64 bit application, exclusive for windows.
+* FTP: enable or disable FTP for file upload
+* HTTP version
+* Web sockets
+* Always On: Tells the app service to keep the application loaded. It does so by constantly pinging the app.
+* ARR affinity: Ties the session of a user to an instance, only applicable when there is more than one app instance.
+* HTTPS only
+* Minimum TLS version
+* Debugging: allow temporary remote debugging, it disables itself after 48 hours of enabling it.
