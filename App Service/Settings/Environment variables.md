@@ -51,4 +51,8 @@ In the same way, multiple connection strings can be configured using a JSON as s
 ```
 
 #### CLI
-Environment variables 
+Environment variables can also be configure using the ```az``` command, here is an example:
+```bash
+az webapp config appsettings set --resource-group <group-name> --name <app-name> --settings key1=value1 key2=value2
+```
+
