@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/Settings/Path mappings.md",
+                "file": "App Service/Settings/Diagnostics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Path mappings"
+              "title": "Diagnostics"
             }
           }
         ],
@@ -239,6 +239,7 @@
   "active": "d1e48b4a476e5a1e",
   "lastOpenFiles": [
     "App Service/Settings/Settings.md",
+    "App Service/Settings/Diagnostics.md",
     "App Service/Settings/Path mappings.md",
     "App Service/Settings/General settings.md",
     "App Service/Settings/Environment variables.md",
