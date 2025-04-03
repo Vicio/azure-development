@@ -1,5 +1,5 @@
 Multiple settings can be configured for an [[App Service]] application:
-* [[Application settings]]
+* [[Environment variables]]
 * [[General settings]]
 * [[Path mappings]]
 * [[Diagnostics]]

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/Settings/Application settings.md",
+                "file": "App Service/Settings/Environment variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application settings"
+              "title": "Environment variables"
             }
           }
         ],
@@ -225,6 +225,7 @@
   "active": "e8cf898cc178c2e3",
   "lastOpenFiles": [
     "App Service/Settings/Settings.md",
+    "App Service/Settings/Environment variables.md",
     "App Service/Settings/Application settings.md",
     "App Service/Settings/Untitled.md",
     "Azure Development.md",
