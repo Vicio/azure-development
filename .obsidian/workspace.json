@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/Settings/Certificates.md",
+                "file": "App Service/App Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Certificates"
+              "title": "App Service"
             }
           }
         ],
@@ -238,8 +238,10 @@
   },
   "active": "d1e48b4a476e5a1e",
   "lastOpenFiles": [
+    "App Service/Scaling/Scaling.md",
     "App Service/Settings/Settings.md",
     "App Service/Settings/Certificates.md",
+    "App Service/Scaling",
     "App Service/Settings/Diagnostics.md",
     "App Service/Settings/Path mappings.md",
     "App Service/Settings/General settings.md",

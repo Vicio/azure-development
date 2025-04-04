@@ -13,3 +13,4 @@
 * #### Usage of built-in [[Authentication|authentication]].
 * #### Integrated [[Networking|networking]] features.
 * #### Application [[Settings]] via web or CLI
+* #### Manual or automatic
