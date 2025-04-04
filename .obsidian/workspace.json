@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "App Service/App Service.md",
+                "file": "App Service/Scaling/Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App Service"
+              "title": "Scaling"
             }
           }
         ],
@@ -238,6 +238,7 @@
   },
   "active": "d1e48b4a476e5a1e",
   "lastOpenFiles": [
+    "App Service/App Service.md",
     "App Service/Scaling/Scaling.md",
     "App Service/Settings/Settings.md",
     "App Service/Settings/Certificates.md",
@@ -249,7 +250,6 @@
     "App Service/Settings/Application settings.md",
     "App Service/Settings/Untitled.md",
     "Azure Development.md",
-    "App Service/App Service.md",
     "App Service/Networking.md",
     "App Service/Deployment.md",
     "App Service/Service plans.md",

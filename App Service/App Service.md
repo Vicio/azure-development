@@ -12,5 +12,5 @@
 * #### Capabilites depend on the different [[Service plans|service plans]].
 * #### Usage of built-in [[Authentication|authentication]].
 * #### Integrated [[Networking|networking]] features.
-* #### Application [[Settings]] via web or CLI
-* #### Manual or automatic
+* #### Application [[Settings]] via web or CLI.
+* #### Manual or automatic [[Scaling]].
